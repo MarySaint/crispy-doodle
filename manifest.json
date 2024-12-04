@@ -1,0 +1,14 @@
+{
+    "name": "Palette",
+    "description": "Color Sort",
+    "start_url": "/crispy-doodle/",
+    "lamg": "ru-RU",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "1326001.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
